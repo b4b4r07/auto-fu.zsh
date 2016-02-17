@@ -37,6 +37,8 @@ TIMEFMT="%*E %J"
 0.004 ( source ~/.zsh/auto-fu; auto-fu-install; )
 Here is the auto-fu-zcompile manual.
 --- &gt;8 ---
+
+[![Join the chat at https://gitter.im/b4b4r07/auto-fu.zsh](https://badges.gitter.im/b4b4r07/auto-fu.zsh.svg)](https://gitter.im/b4b4r07/auto-fu.zsh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 NAME
        auto-fu-zcompile - zcompile auto-fu
 SYNOPSIS
