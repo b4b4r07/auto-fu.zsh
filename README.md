@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/b4b4r07/auto-fu.zsh](https://badges.gitter.im/b4b4r07/auto-fu.zsh.svg)](https://gitter.im/b4b4r07/auto-fu.zsh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="https://github.com/hchbaw/auto-fu.zsh/raw/readme/auto-fu.gif" />
 
 <pre>
